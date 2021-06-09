@@ -1,0 +1,2 @@
+# stresion
+tugas_akhir
